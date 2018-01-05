@@ -15,7 +15,7 @@ How it Works
       <p>Install python3 and pygame modules and run snakegame.py from terminal.</p>
     </td>
     <td>
-      <img src="/src/images/readme1.png" max-height="240px" witdh="auto">
+      <img src="/gamestart.png" max-height="240px" witdh="auto">
     </td>
   </tr>
   <tr>
@@ -25,7 +25,7 @@ How it Works
           more difficult as the length of the snake grows.</p>
     </td>
     <td>
-      <img src="/src/images/readme2.png" max-height="240px" witdh="auto">
+      <img src="/gamerunning.png" max-height="240px" witdh="auto">
     </td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@ How it Works
       <p>When collides with itself or wall, game is over and it shows total score.</p>
     </td>
     <td>
-      <img src="/src/images/readme3.png" max-height="240px" witdh="auto">
+      <img src="/gameover.png" max-height="240px" witdh="auto">
     </td>
   </tr>
     
