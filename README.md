@@ -5,8 +5,8 @@
 Why Snake Game
 -------------
 
-The snake game is an arcade game and it has very simple logic.
-It is an ideal example to demonstrate how to build games with Pygame.
+<p>The snake game is an arcade game and it has very simple logic.
+It is an ideal example to demonstrate how to build games with Pygame.</p>
 How it Works
 ------------
 <table layout="fixed">
